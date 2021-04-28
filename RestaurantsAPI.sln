@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestaurantsAPI", "RestaurantsAPI\RestaurantsAPI.csproj", "{30EC0EBF-3ACC-42D7-9616-418F363A163D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30EC0EBF-3ACC-42D7-9616-418F363A163D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30EC0EBF-3ACC-42D7-9616-418F363A163D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30EC0EBF-3ACC-42D7-9616-418F363A163D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30EC0EBF-3ACC-42D7-9616-418F363A163D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {90F3242F-2972-4BD7-B208-98D124510BD2}
+	EndGlobalSection
+EndGlobal
