@@ -36,6 +36,7 @@ namespace RestaurantsAPI
             services.AddScoped<IRestaurantService, RestaurantService>();
             services.AddScoped<ErrorHandlingMiddleware>();
             services.AddScoped<RequestTimeMiddleware>();
+            services.AddScoped<IDishService, DishService>();
             services.AddSwaggerGen();
         }
 
